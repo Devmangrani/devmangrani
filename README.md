@@ -45,3 +45,9 @@
 <p align="center">
   <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/devbuddy55?theme=dark&font=Nunito" />  
 </p>
+
+### Holopin Badges
+
+[![An image of @devmangrani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devmangrani)](https://holopin.io/@devmangrani)
+
+ <p align = "center" > Made with 🤍 by Dev </p>
