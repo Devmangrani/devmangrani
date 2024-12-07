@@ -43,7 +43,7 @@
 
 <h2 align="center">⚡ Leetcode Info ⚡</h2>  
 <p align="center">
-  <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/devbuddy55?theme=dark&font=Nunito" />  
+  <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/devmangrani?theme=dark&font=Nunito" />  
 </p>
 
 ### Holopin Badges
